@@ -26,7 +26,7 @@ const dataSchema = new mongoose.Schema({
         type: Number
     },
     impact: {
-        type: String
+        type: Number
     },
     added: {
         type: String
